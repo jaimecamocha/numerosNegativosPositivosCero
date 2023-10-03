@@ -1,5 +1,5 @@
 // JAIME FERNÁNDEZ CALVO
-//
+// https://github.com/jaimecamocha/numerosNegativosPositivosCero.git
 
 var num = prompt("Ingrese un número:");
 
