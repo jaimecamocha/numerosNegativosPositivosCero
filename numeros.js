@@ -14,8 +14,12 @@ switch (true) {
         console.log("El número es negativo.");
         alert("El número es negativo.");
         break;
-    default:
+    case num == 0:
         console.log("El número es cero.");
         alert("El número es cero.");
         break;
+    default:
+        console.log("Introduzca un número");
+        alert("Introduzca un número.");
+        break;        
 }
